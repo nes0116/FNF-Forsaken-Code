@@ -5,8 +5,8 @@
         "successText": "Received 10,000 Money!"
     },
     {
-        "code": "114514",
-        "hxcCode": "",
-        "successText": ""
+        "code": "RottenRecord404",
+        "hxcCode": "CoolUtil.giveSong('Rotten Record404', 'Do you like yaju senpai?', 'john-doe');",
+        "successText": "Received 'Rotten Record404' Song!"
     }
 ]
