@@ -6,7 +6,7 @@
     },
     {
         "code": "RottenRecord404",
-        "hxcCode": "CoolUtil.giveSong('Rotten Record404', 'Do you like yaju senpai?', 'john-doe');",
+        "hxcCode": "import backend.CoolUtil;\nCoolUtil.giveSong('Rotten Record404', 'Do you like yaju senpai?', 'john-doe');",
         "successText": "Received 'Rotten Record404' Song!"
     }
 ]
