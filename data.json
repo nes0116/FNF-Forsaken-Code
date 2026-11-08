@@ -1,0 +1,10 @@
+[
+    {
+        "code": "Test",
+        "hxcCode": "ClientPrefs.data.money += 10000; ClientPrefs.saveSettings();"
+    },
+    {
+        "code": "114514",
+        "hxcCode": ""
+    }
+]
