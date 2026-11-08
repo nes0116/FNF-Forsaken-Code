@@ -1,7 +1,7 @@
 [
     {
         "code": "Test",
-        "hxcCode": "ClientPrefs.data.money += 10000;\nClientPrefs.saveSettings();",
+        "hxcCode": "ClientPrefs.data.money += 10000;",
         "successText": "Received 10,000 Money!"
     },
     {
